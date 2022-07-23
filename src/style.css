@@ -1,1 +1,45 @@
-/* styles go here */
+.form-field {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.field-set-reg {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.field-set-fact {
+  margin-bottom: 20px;
+}
+
+.fact {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.registration_email {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.registration_pass {
+  display: block;
+}
+
+.add-info {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.brand_car {
+  display: block;
+}
+
+.additional-info {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.fact-rate {
+  margin: 0;
+}
